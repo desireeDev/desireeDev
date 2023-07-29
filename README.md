@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I"am SAD  😚👋
+student in computer science 👩‍💻😄, my love for the branches🥰❤
+of this sector has increased over time especially 🌚for the development of mobile applications,
+Let's discover this universe together goooooo🏃‍♀️🏃‍♀️🏃‍♀️
 
 <!--
 **desireeDev/desireeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
