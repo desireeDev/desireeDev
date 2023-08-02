@@ -1,7 +1,8 @@
 ### Hi there I"am SAD  😚👋
 student in computer science 👩‍💻😄, my love for the branches🥰❤
 of this sector has increased over time especially 🌚for the development of mobile applications,
-Let's discover this universe together goooooo🏃‍♀️🏃‍♀️🏃‍♀️
+Let's discover this universe together goooooo🏃‍♀️🏃‍♀️🏃‍♀️ and 
+This repository showcases my submission for the Flutter  app UI Challenge. The challenge aimed to design and implement an attractive and user-friendly mobile application of all kinds. As a passionate Flutter developer, this challenge is a way for me to explore flutter and to have notions in UI/UX design🥰❤
 
 <!--
 **desireeDev/desireeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
