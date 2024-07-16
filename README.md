@@ -1,8 +1,18 @@
-### Hi there I"am SAD  😚👋
-student in computer science 👩‍💻😄, my love for the branches🥰❤
-of this sector has increased over time especially 🌚for the development of mobile applications,
-Let's discover this universe together goooooo🏃‍♀️🏃‍♀️🏃‍♀️ and 
-This repository showcases my submission for the Flutter  app UI Challenge. The challenge aimed to design and implement an attractive and user-friendly mobile application of all kinds. As a passionate Flutter developer, this challenge is a way for me to explore flutter and to have notions in UI/UX design🥰❤
+
+
+### 👋 Hi there! I'm Syntiche
+
+I'm an Informatics student passionate about application development. I love to create and improve applications that can make a difference. Here are a few things about me:
+
+- 👩‍💻 I have experience in various programming languages including Python, Java, PHP, and JavaScript.
+- 📱 I enjoy developing mobile applications using frameworks like React Native and Flutter.
+- 🌐 I'm also interested in web development and have worked with frameworks like Symfony, React JS, and Angular.
+- 🚀 I'm always eager to learn new technologies and improve my coding skills.
+- 🤝 I love collaborating on open source projects and contributing to the community.
+
+Feel free to check out my repositories and connect with me!
+
+---
 
 <!--
 **desireeDev/desireeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
