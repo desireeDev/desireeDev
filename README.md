@@ -12,12 +12,9 @@ I'm an Informatics student passionate about application development. I love to c
 
 Feel free to check out my repositories and connect with me!
 
----
 
-<!--
-**desireeDev/desireeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
