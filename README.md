@@ -1,6 +1,5 @@
 
-
-### 👋 Hi there! I'm Syntiche
+👋 Hi there! I'm Syntiche
 
 I'm an Informatics student passionate about application development. I love to create and improve applications that can make a difference. Here are a few things about me:
 
