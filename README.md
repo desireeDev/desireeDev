@@ -15,5 +15,6 @@
 🚀 I’m always eager to learn new technologies, improve my coding skills, and take on new technical challenges.
 
 🤝 I enjoy collaborating on open source projects and contributing to the community.
+<img width="1920" height="1080" alt="Blue Girl Cute Desktop Wallpaper (6)" src="https://github.com/user-attachments/assets/0827a1af-57e1-4103-8f93-aed1c6375761" />
 
 ✨ Feel free to explore my repositories and connect with me
