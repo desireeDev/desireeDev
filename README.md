@@ -4,7 +4,7 @@
 
 💡 About me:
 
-👩‍💻 I have worked with several programming languages including Python, Java, PHP, and JavaScript.
+👩‍💻 I have worked with several programming languages including  Java, PHP, and JavaScript.
 
 📱 I enjoy developing mobile applications and have built projects using  Flutter.
 
