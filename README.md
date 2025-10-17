@@ -1,7 +1,5 @@
 
-
-<img width="6912" height="3456" alt="Green Simple Welcome Banner" src="https://github.com/user-attachments/assets/3c0299ea-eabf-41aa-97b9-f648086952c3" />
-
+<img width="9216" height="2304" alt="Christmas Classroom Banner Banner in Freestyle Style" src="https://github.com/user-attachments/assets/b2351845-99bd-44e5-8690-cd81aa15ef30" />
 
 
 
