@@ -1,3 +1,10 @@
+
+
+<img width="6912" height="3456" alt="Green Simple Welcome Banner" src="https://github.com/user-attachments/assets/3c0299ea-eabf-41aa-97b9-f648086952c3" />
+
+
+
+
 👋 Hi, I’m Syntiche
 
 🎓 I’m an Informatics student passionate about application development and motivated by the idea of creating useful and innovative solutions.
@@ -15,6 +22,6 @@
 🚀 I’m always eager to learn new technologies, improve my coding skills, and take on new technical challenges.
 
 🤝 I enjoy collaborating on open source projects and contributing to the community.
-<img width="1920" height="1080" alt="Blue Girl Cute Desktop Wallpaper (6)" src="https://github.com/user-attachments/assets/0827a1af-57e1-4103-8f93-aed1c6375761" />
+
 
 ✨ Feel free to explore my repositories and connect with me
