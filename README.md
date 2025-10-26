@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # 👋 Hello World, I’m Syntiche
 
@@ -6,8 +6,7 @@
 
 ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️
 
-![Tech Coding GIF by Persona](https://github.com/user-attachments/assets/7ce6dadb-2cd4-4528-9c6f-ebc7f9bc4794)
-
+![Tech Coding GIF](https://github.com/user-attachments/assets/7ce6dadb-2cd4-4528-9c6f-ebc7f9bc4794)
 
 ---
 
@@ -24,3 +23,5 @@ Linux, Networking, Scripting, Cloud, Web & Mobile Dev, Cybersecurity
 
 **📫 Reach me:**  
 [LinkedIn](https://www.linkedin.com/in/ton-profil) | [Email](mailto:ton-email@example.com)
+
+</div>
