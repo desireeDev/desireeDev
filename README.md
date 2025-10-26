@@ -8,7 +8,7 @@
 
 ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️
 
-![Tech Coding GIF](https://github.com/user-attachments/assets/7ce6dadb-2cd4-4528-9c6f-ebc7f9bc4794)
+[![Tech Coding GIF](https://github.com/user-attachments/assets/7ce6dadb-2cd4-4528-9c6f-ebc7f9bc4794)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmk2c3piOHRqbnV0ZmRzcDJoMWQ4dm8xOTNyejl2b3N0Y2N3M3J5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/giphy.gif)
 
 ---
 
@@ -19,11 +19,5 @@ Java | JavaScript | TypeScript | React | Angular | Symfony | Laravel | Node.js |
 
 **🚀 About me:**  
 Always learning, building, and contributing to open-source projects. Passionate about clean, scalable apps and Cybersecurity.
-
-**💬 Ask me about:**  
-Linux, Networking, Scripting, Cloud, Web & Mobile Dev, Cybersecurity
-
-**📫 Reach me:**  
-[LinkedIn](https://www.linkedin.com/in/ton-profil) | [Email](mailto:ton-email@example.com)
 
 </div>
