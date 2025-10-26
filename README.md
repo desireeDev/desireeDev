@@ -2,9 +2,7 @@
 
 # 👋 Hello World, I'm Syntiche
 
-<div style="color: #007bff; font-weight: bold; font-size: 1.2em;">
-💙 Always learning, always improving, always coding!
-</div>
+**<span style="color:#007bff;">💙 Always learning, always improving, always coding!</span>**
 
 ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️
 
