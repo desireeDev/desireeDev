@@ -8,7 +8,10 @@
 
 ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️
 
-[![Tech Coding GIF](https://github.com/user-attachments/assets/7ce6dadb-2cd4-4528-9c6f-ebc7f9bc4794)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmk2c3piOHRqbnV0ZmRzcDJoMWQ4dm8xOTNyejl2b3N0Y2N3M3J5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/giphy.gif)
+![Tech Hearts GIF by Persona](https://github.com/user-attachments/assets/228d7c69-617b-4d6e-b8a7-0cebcd9adcea)
+
+
+
 
 ---
 
