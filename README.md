@@ -5,6 +5,6 @@
 
 🎓 Informatics Student | 💻 Web & Mobile Developer | 🐳 Docker & Cloud Enthusiast
 
-Skills: Java, JavaScript, TypeScript, React, Angular, Symfony, Flutter
+Skills: Java, JavaScript, TypeScript, React, Angular, Symfony,Laravel,Node js, Flutter
 
 🚀 Always learning, building, and contributing to open-source projects. Passionate about clean, scalable apps and Cybersecurity.
