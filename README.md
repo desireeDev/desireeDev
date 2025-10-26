@@ -1,6 +1,9 @@
 
-<img width="9216" height="2304" alt="Christmas Classroom Banner Banner in Freestyle Style" src="https://github.com/user-attachments/assets/b2351845-99bd-44e5-8690-cd81aa15ef30" />
-👋 Hi, I’m Syntiche
+
+                                                  👋 Hello World, I’m Syntiche
+                <marquee behavior="scroll" direction="left" scrollamount="5" style="color:#1E90FF; font-size:18px; font-weight:bold;">
+                        Always learning, always improving, always coding! </marquee>                            ![Tech Coding GIF by Persona](https://github.com/user-attachments/assets/7ce6dadb-2cd4-4528-9c6f-ebc7f9bc4794)
+
 
 
 🎓 Informatics Student | 💻 Web & Mobile Developer | 🐳 Docker & Cloud Enthusiast
