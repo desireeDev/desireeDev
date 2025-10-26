@@ -2,9 +2,7 @@
 
 # 👋 Hello World, I’m Syntiche
 
-💙 **Always learning, always improving, always coding!**  
-
-➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️
+💙 **<span style="color:#1E90FF;">Always learning, always improving, always coding!</span>**  
 
 ![Tech Coding GIF](https://github.com/user-attachments/assets/7ce6dadb-2cd4-4528-9c6f-ebc7f9bc4794)
 
