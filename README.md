@@ -16,10 +16,8 @@ Java | JavaScript | TypeScript | React | Angular | Symfony | Laravel | Node.js |
 **🚀 About me:**  
 Always learning, building, and contributing to open-source projects. Passionate about clean, scalable apps and Cybersecurity.
 
-**💬 Ask me about:**  
-Linux, Networking, Scripting, Cloud, Web & Mobile Dev, Cybersecurity
 
 **📫 Reach me:**  
-[LinkedIn](https://www.linkedin.com/in/ton-profil) | [Email](mailto:ton-email@example.com)
+[LinkedIn](www.linkedin.com/in/synticheattoh) 
 
 </div>
