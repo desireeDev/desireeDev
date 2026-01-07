@@ -2,7 +2,7 @@
 
 # 👋 Hello World, I'm Syntiche
 
-**<span style="color:#007bff;">💙 Always learning, always improving, always coding!</span>**
+**<span style="color:#007bff;">💙 Always learning, always improving, always coding with pleasure!</span>**
 
 ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️
 
@@ -16,9 +16,9 @@
 🎓 **Informatics Student | 💻 Web & Mobile Developer | 🐳 Docker & Cloud Enthusiast**
 
 **Skills:**  
-Java | JavaScript | TypeScript | React | Angular | Symfony | Laravel | Node.js | Flutter
+Java | JavaScript | TypeScript | React | Spring Boot |Angular| Symfony | Laravel | Node.js | Flutter
 
 **🚀 About me:**  
-Always learning, building, and contributing to open-source projects. Passionate about clean, scalable apps and Cybersecurity.
+Always learning, building, and contributing to open-source projects. Passionate about clean code and TDD, scalable apps and Cybersecurity.
 
 </div>
